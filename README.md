@@ -1,6 +1,9 @@
 # GADT3: Cross-Domain Graph Anomaly Detection via Test-time Training
 
 This repository contains the implementation of GADT3 (Graph Anomaly Detection with Test-time Training), a novel framework for cross-domain graph anomaly detection.
+Please refer to our paper: https://www.arxiv.org/abs/2502.14293
+
+
 
 ## Overview
 
